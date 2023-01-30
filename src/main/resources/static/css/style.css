@@ -113,7 +113,7 @@ body{
     width: 400%;
     height: 450px;
     margin-left: -100%;
-    position: relative;
+    position: relative;a
 }
 .slider:before{
     content: "";
